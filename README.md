@@ -26,7 +26,7 @@ npm run seed
 
 ## Notes
 
-There is no validation which is terrible.  I want to learn a more advanced framework than react and I had a student learning Sequelize so I decided to make a mini project on it. 
+There is no validation which is terrible.  This is for example only.  You should have validation and security around any production based API.
 
 ## Sequelize Setup
 
