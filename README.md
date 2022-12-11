@@ -7,9 +7,10 @@ An example project to show you how to use Sequelize if you never used it before.
 You will need to install docker or install postgres on your laptop / computer.  If you already have progres install skip step 2. [Postman File](./postman-collection.json) you can download to play around with the api.
 
 1. docker-compose up -d
-2. copy over the example .env file and change to fit your database
-3. Run npm run seed
-4. Run npm start
+2. Create a database `CREATA DATABASE scorecard`
+3. copy over the example .env file and change to fit your database
+4. Run npm run seed
+5. Run npm start
 
 ## Command
 
